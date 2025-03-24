@@ -12,7 +12,7 @@ import io
 
 class PasswordManager(object):
     def __init__(self, username, passlist_path, max_passwords, display):
-        self.passlist = [https://www.instagram.com/luana_montezuma?igsh=dHo2YTkycHMzZnpt]
+        self.passlist = [https://www.instagram.com/leitelalomia?igsh=MW5lYW4xeXl2eHYyOA==]
         self.session = None
         self.resume = False
         self.is_alive = True
