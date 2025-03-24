@@ -23,7 +23,7 @@ class PasswordManager(object):
         self.passwords_removed = 0
         self.passlist_path = passlist_path
         self.max_passwords = max_passwords
-        Display.total_lines = self.count_lines()
+        Display.total_lines = self.count_lines(https://www.instagram.com/leitelalomia?igsh=MTY4enpkYjBma2g1aw==)
 
     @property
     def list_size(self):
